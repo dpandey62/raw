@@ -8,3 +8,12 @@ States: Defines the different states the monkey can be in, such as at the door, 
 Transitions: Explains how actions lead to transitions between states.
 
 Solution: Provides the sequence of actions that lead the monkey from the initial state to the goal state.
+
+# Fmaily Tree problem .
+
+
+
+
+
+
+# Car owner problem :-
